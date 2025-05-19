@@ -1,0 +1,8 @@
+sistema-estoque-c/
+├── main.c
+├── cadastro.c
+├── cadastro.h
+├── estoque.txt        (gerado ao rodar o programa)
+├── estoque.dat        (gerado ao rodar o programa)
+├── estoque.csv        (opcional, gerado se exportar)
+└── README.md
